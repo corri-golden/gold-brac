@@ -1,3 +1,6 @@
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -35,4 +38,21 @@ a {
 a:hover {
     color: green;
     text-decoration: none;
-  }
+}
+
+
+.firstLine{
+
+}
+
+.secondLine{
+    text-align: right;
+}
+
+.sloganDiv{
+    text-align: center;
+}
+
+
+
+
