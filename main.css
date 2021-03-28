@@ -1,0 +1,58 @@
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  li {
+    float: right
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    height: 72px
+  }
+  
+
+  .logo {
+    width: 135px;
+    height: 95px;
+}
+
+a {
+    color: black !important;
+    margin-top: 20px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+
+.firstLine{
+
+}
+
+.secondLine{
+    text-align: right;
+}
+
+.sloganDiv{
+    text-align: center;
+}
+
+
+
+
