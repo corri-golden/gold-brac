@@ -42,11 +42,16 @@ a:hover {
 
 
 .firstLine{
-
+    /* margin-right: 600px; */
+    padding-right:600px
 }
 
 .secondLine{
-    text-align: right;
+    margin-left: 400px;
+}
+
+.thirdLine{
+    padding-right: 400px;
 }
 
 .sloganDiv{
